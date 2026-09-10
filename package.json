@@ -1,0 +1,12 @@
+{
+  "name": "faithprints-full",
+  "version": "1.0.0",
+  "description": "Faith Prints website with a real Order Online section and admin dashboard, backed by Express and a JSON file database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
